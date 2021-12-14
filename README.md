@@ -1,2 +1,2 @@
 # ap-project
-Proyecto 
+Repositorio para clase de algoritmos y programacion  
